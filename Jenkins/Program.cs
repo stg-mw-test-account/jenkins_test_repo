@@ -14,7 +14,6 @@ namespace Jenkins
             Console.WriteLine("world");
             Console.WriteLine("...");
             Console.WriteLine("...");
-            Console.WriteLine("...");
         }
     }
 }
