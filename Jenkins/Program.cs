@@ -8,7 +8,6 @@ namespace Jenkins
         {
             Console.WriteLine("hello");
             Console.WriteLine("world");
-            Console.WriteLine("...");
         }
     }
 }
