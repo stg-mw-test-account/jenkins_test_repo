@@ -18,7 +18,7 @@ namespace Tests
             int divide = calc.Divide(20, 4);
 
             // Assert
-            Assert.AreEqual(add, 15); // should fall
+            Assert.AreEqual(add, 10);
             Assert.AreEqual(subtract, 5);
             Assert.AreEqual(multilpy, 25);
             Assert.AreEqual(divide, 5);
